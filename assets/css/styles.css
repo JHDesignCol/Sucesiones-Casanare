@@ -352,3 +352,22 @@ header .textos-header .logo{
 		display: none;
 	}	
 }
+.container{
+    position: relative;
+    float: left;
+    
+}
+
+.container-center{
+    position: relative;
+}
+.left{
+    position: relative;
+    float: left;
+}
+.right{
+    position: relative;
+    float: right;
+}
+
+
